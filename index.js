@@ -154,3 +154,8 @@ var a = 2
 // if(stdName === name || stdAge === age){
 //     console.log("You passed Matric")
 // }
+
+// var prompt = prompt("add numbers")
+// var sum = 20 + 
+// var result = sum
+// console.log("sum=>", result)
